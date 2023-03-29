@@ -169,6 +169,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Before detection of an object
  ![](./1.png)
 ## After detection of an object
+![image](https://user-images.githubusercontent.com/95067176/228618078-339983b4-f82b-42c7-a572-3b05ffeee0eb.png)
+
 ## LED blink off
 ![](./2.png)
 ## LED blink on
